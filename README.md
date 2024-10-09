@@ -1,1 +1,1 @@
-# bg-colorswatch-generator
+# BG Color Swatch Generator
